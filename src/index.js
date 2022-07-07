@@ -15,7 +15,7 @@ document.getElementById('reset').addEventListener('click', () => {
       new AddButon('farewells', table.farewells);
       new AddButon('followups', table.followups);
       new AddButon('conclusions', table.conclusions);
-      const input = document.querySelectorAll('.name-box');
+      const input = document.querySelectorAll('.container-name');
       input.forEach(element => {
             element.value = ""
       })
