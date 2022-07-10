@@ -8,6 +8,7 @@ export const greetings = [
 	'Pozdrowienia,',
 	'Do tych których może to dotyczyć,',
 ];
+
 export const followups = [
 	'Z żalem informuję cię, że',
 	'Piszę w odniesieniu do',
@@ -37,16 +38,11 @@ export const farewells = [
 	'Dziękuję za uwagę',
 	'Jesteśmy bardzo wdzięczni, że jesteś członkiem naszego zespołu i chcemy nadal widzieć, jak rozwijasz się w naszej organizacji.',
 	'Chcemy z góry podziękować za poświęcony czas i mamy nadzieję, że podobało Ci się to doświadczenie.',
-]
+];
 
 export const conclusions = [
-	'Z poważaniem',
-	'Z poważaniem',
 	'Pozdrowienia',
 	'Z szacunkiem',
-	'Z poważaniem,',
 	'Z pozdrowieniami,',
 	'Z poważaniem',
-	'Z poważaniem',
-	'Z poważaniem,',
 ];
